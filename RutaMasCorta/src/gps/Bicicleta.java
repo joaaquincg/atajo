@@ -2,7 +2,7 @@ package gps;
 /**
  * Bicicleta class
  * 
- * @Java IES Severo Ochoa
+ * @Joaquín Cartagena González
  * @2.0
  */
 
@@ -18,7 +18,7 @@ public class Bicicleta {
         int sum1 = 0;
         int sum2 = 0;
         int sum3 = 0;
-        
+        /*He hecho 1 for para cada variable*/
         for(int i=0; i<camino1.length; i++)
         {
             sum1 += camino1[i];
