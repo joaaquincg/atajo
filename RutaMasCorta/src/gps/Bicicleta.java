@@ -2,7 +2,7 @@ package gps;
 /**
  * Bicicleta class
  * 
- * @Java IES Severo Ochoa
+ * @Java IES Severo Ochoaa
  * @2.0
  */
 
